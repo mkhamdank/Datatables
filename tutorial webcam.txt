@@ -1,0 +1,20 @@
+tutorial webcam
+
+https://makitweb.com/how-to-capture-picture-from-webcam-with-webcam-js/
+
+https://www.balidev.top/cara-membuat-form-upload-gambar-langsung-dari-webcam-dengan-javascript-dan-php/
+
+safety permit number dibuat hover
+ditambahin pt di tabel prson
+ditambahi jumlah prsonil di tabel prusahaan
+ditambahi detail
+foto diri dan foto ktp ibuat preview
+ditambahi username di user
+no hp dan alamat dibuang
+diganti Otority
+ditambah seksi
+error uploa foto
+tanggal mulai dan tanggal selesai
+kata personil 1-n dibesarkan dan diwarna
+insert gak bisa double
+tambah button tambah personil

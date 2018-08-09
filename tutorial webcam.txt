@@ -4,17 +4,35 @@ https://makitweb.com/how-to-capture-picture-from-webcam-with-webcam-js/
 
 https://www.balidev.top/cara-membuat-form-upload-gambar-langsung-dari-webcam-dengan-javascript-dan-php/
 
-safety permit number dibuat hover
-ditambahin pt di tabel prson
-ditambahi jumlah prsonil di tabel prusahaan
-ditambahi detail
-foto diri dan foto ktp ibuat preview
-ditambahi username di user
-no hp dan alamat dibuang
-diganti Otority
-ditambah seksi
-error uploa foto
-tanggal mulai dan tanggal selesai
-kata personil 1-n dibesarkan dan diwarna
-insert gak bisa double
-tambah button tambah personil
+safety permit number dibuat hover --- v
+ditambahin pt di tabel prson --- v
+ditambahi jumlah prsonil di tabel prusahaan --- v
+ditambahi detail --- v
+foto diri dan foto ktp dibuat preview
+ditambahi username di user --- v
+no hp dan alamat dibuang --- v
+diganti Otority --- v
+ditambah seksi --- v
+error uploa foto --- v
+tanggal mulai dan tanggal selesai --- v
+kata personil 1-n dibesarkan dan diwarna --- v
+insert gak bisa double --- v
+tambah button tambah personil --- v
+
+
+update foto
+alert sukses tambah personil
+Daftar Perusahaan -> Data Perusahaan
+
+januari - abu
+februari - biru
+maret - biru_muda
+april - coklat_muda
+mei - hijau
+juni - kuning
+juli - merah
+agustus - oren
+sept - pink
+okt - tosca
+nov - ungu
+des - biru_tua
